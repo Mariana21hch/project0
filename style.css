@@ -1,0 +1,65 @@
+/* css Document*/
+.fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+}
+.fa:hover {opacity: 0.7;}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+  h1 {font-family: times new roman}
+  h2 {font-family: times new roman}
+  h4 {font-family: times new roman}
+  h5 {font-family: times new roman}
+  h6 {font-family: times new roman}
+  li {font-family: times new roman}
+  ul {font-family: times new roman}
+  p  {font-family:times new roman}
+
+body {background-color: #dcdde1;}
+
+table{
+    Border: 4px solid balck;
+    border-collapse: collapse
+}
+th,td{border: 2px solid BlacK;}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #2f3640;
+  color: white;
+  font-size: 30px;
+}
+#profilepicture{
+  text-align: center;
+  width: 50%;
+}
+
+
+#footer {
+    position: center;
+    bottom: 0px;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+}
+
+#TMO {  text-align: center;
+  width: 30%;
+}
+
+
+@media print{
+  .screen-only {
+    display: none;
+  }
+}
+
+/* For width 400px and larger: */
+    /* Retina styles here */
