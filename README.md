@@ -1,6 +1,6 @@
 # Project 0
 
-## Live preview link: <a href = " https://mariana21hch.github.io/project0/ >https://mariana21hch.github.io/project0/</a> 
+## Live preview link: <a href = " https://mariana21hch.github.io/project0/" > https://mariana21hch.github.io/project0/ </a> 
 
 
 I used my index.html as my home page, added a carousel with a nav bar that lets you access the following links:
